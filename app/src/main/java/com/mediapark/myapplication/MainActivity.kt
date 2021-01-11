@@ -11,6 +11,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         name = "aaaaaa"
 
+        fd,sf,sdfd
+        f,ds,fs,df
+        sd,f,sd,fsd
+        f,ds,fds,f,ds,fd
+
         // ctrl + shift + n
         // ctrl + e
         // ctrl + alt + left/right
